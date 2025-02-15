@@ -1,8 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"$Alizarin","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"$Alizarin","traits":[],"initialLevel":1,"maxLevel":1,"name":"Alizarin","nickname":"Alizarin","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"$Cobalt","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"$Cobalt","traits":[],"initialLevel":1,"maxLevel":1,"name":"Cobalt","nickname":"Cobalt","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"$Amaranth","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"$Amaranth","traits":[],"initialLevel":1,"maxLevel":1,"name":"Amaranth","nickname":"Amaranth","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"$Urobilin","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"$Urobilin","traits":[],"initialLevel":1,"maxLevel":1,"name":"Urobilin","nickname":"Urobilin","note":"","profile":""},
-{"id":5,"battlerName":"","characterIndex":0,"characterName":"$Fern","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"$Fern","traits":[],"initialLevel":1,"maxLevel":1,"name":"Fern","nickname":"Fern","note":"","profile":""}
-]
